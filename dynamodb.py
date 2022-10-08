@@ -498,7 +498,7 @@ def _get_transact_items_for_update(artist='default', song_title='default', lengt
             }
         }
     ]
-]
+
     print(f'Transact Items={returns}')
     return returns
 
